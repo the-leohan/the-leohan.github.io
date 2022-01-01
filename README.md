@@ -1,3 +1,7 @@
+# 如何下载
+## 1.Github下载(慢速)
+## 2.网盘（无需登录）  传输链接：https://cowtransfer.com/s/197275a0cdd446
+
 # 用户使用条款（必读）
 <a name="gojMR"></a>
 ## 1.特别提示
